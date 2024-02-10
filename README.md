@@ -7,9 +7,10 @@
 - 📫 My blog is https://1aba1.github.io/
 
 -- --
-
+<!--
 # skills 
 <table><tr><td valign="top" width="33%">
+
 
 ### favourite  
 <div align="center">  
@@ -44,7 +45,8 @@
 
 </td></tr></table>  
 
--- --
+-->
+
 
 ![Neaya's Github Stats](https://github-readme-stats.vercel.app/api?username=1aba1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
